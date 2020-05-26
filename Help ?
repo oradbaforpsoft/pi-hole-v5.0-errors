@@ -1,0 +1,17 @@
+I upgraded from pi-hole 4.8 (?I think) to 5.0.
+After upgrading I get this error when trying to add to the (now empty) whitelist:
+" Error, something went wrong! Session expired! Please re-login on the Pi-hole dashboard."
+
+I also tried using the Group Management feature and get this error:
+"DataTables warning: table id=groupsTable - Invalid JSON response. For more information about this error, please see http://datatables.net/tn/1"
+I get the above errors after logging out/in etc multiple times -no difference.
+
+I have already done a apt upgrade and apt update.
+I use the pi for pi-hole and a cups printer hub. with drivers files for the printers I use.
+I also installed byobu.
+I have not installed anything else.
+
+I was wondering if anyone else is having similar issues using :
+Pi-hole Version v5.0 Web Interface Version v5.0 FTL Version v5.0
+
+Any assistance appreciated.. either here or djcconsulting@gmail.com
